@@ -33,4 +33,6 @@ build/
 */.mvn
 */mvnw.cmd
 */mvnw
+*/.gitignore
+.mvn/*
 
