@@ -20,6 +20,12 @@
     <dependencies>
 
         <dependency>
+            <groupId>com.gunn</groupId>
+            <artifactId>gunn-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
