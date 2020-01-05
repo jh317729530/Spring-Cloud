@@ -25,6 +25,7 @@
         <module>gunn-center</module>
         <module>gunn-user</module>
         <module>gunn-order</module>
+        <module>gunn-common</module>
     </modules>
 
     <dependencies>
@@ -41,6 +42,14 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.8</version>
+            <scope>provided</scope>
+        </dependency>
+
     </dependencies>
 
     <dependencyManagement>
