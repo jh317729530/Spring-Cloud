@@ -23,6 +23,8 @@
 
     <modules>
         <module>gunn-center</module>
+        <module>gunn-user</module>
+        <module>gunn-order</module>
     </modules>
 
     <dependencies>
